@@ -1,3 +1,5 @@
+// emplate String atau Template Literal adalah cara atau teknik yang digunakan untuk memanggil sebuah variable di dalam string. Dan kita harus menggunakan backtick (``).
+
 // cara lama
 const firstName = "septe";
 const umur = 24;

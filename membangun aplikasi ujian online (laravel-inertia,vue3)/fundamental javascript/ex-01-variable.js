@@ -1,3 +1,5 @@
+// Jika sebelumnya sudah pernah belajar JavaScript, maka kita tahu bahwa di dalam JavaScript untuk membuat sebuah variable kita bisa menggunakan keyword var. Tapi di dalam ES6 kita mendapatkan keyword baru untuk membuat sebuah variable. Yaitu const dan let
+
 // Keyword const
 //define variable
 // const name = "Fika Ridaul Maulayya";

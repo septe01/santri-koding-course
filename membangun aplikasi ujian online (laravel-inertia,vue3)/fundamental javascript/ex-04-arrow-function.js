@@ -1,3 +1,5 @@
+// Arrow function merupakan fitur bawaan sejak ES6 rilis, dimana digunakan untuk mempersingkat penulisan sebuah function menjadi =>.
+
 // function biasa
 const nama = function name(nama) {
   return `nama anda adalah ${nama}`;
